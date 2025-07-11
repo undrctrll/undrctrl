@@ -39,13 +39,6 @@ Sistem manajemen tugas dengan real-time collaboration, file sharing, dan progres
 
 **Tech Stack:** Laravel, Vue.js, PostgreSQL, Docker
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ### 🎯 Current Focus
 
 - **Microservices Architecture** - Building scalable Laravel microservices
