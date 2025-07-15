@@ -47,9 +47,9 @@
 
 ### 📫 Contact Me
 
-- 🌐 Portfolio: [undrctrl.infinity.app](https://undrctrl.infinity.app)
-- 📧 Email: [Click Here](mailto:your@email.com)
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com)
+- 🌐 Portfolio: [undrctrl.netlify.app](https://undrctrl.netlify.app/)
+- 📧 Email: [Click Here](mailto:nezprojectt@email.com)
+- 💼 LinkedIn: [linkedin.com/in/rasyasaehan](https://linkedin.com)
 - 🐦 Twitter: [@undrctrl](https://twitter.com/undrctrl)
 
 ---
@@ -57,12 +57,5 @@
 ### 💬 Motto
 
 > _"Selalu berusaha memberikan solusi terbaik melalui teknologi dan kolaborasi. Terbuka untuk peluang kerja sama dan pengembangan diri."_
-
----
-
-### 📌 Pinned Projects
-
-Check out some of my favorite work below ⬇️  
-*(Don’t forget to pin your top 3–6 repos on your profile)*
 
 ---
